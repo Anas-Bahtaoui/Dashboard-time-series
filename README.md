@@ -20,7 +20,6 @@ We hope to simplify EDA on projects with a time component. Our tool helps answer
 - Are there any outliers in the data that need to be explained by those with expert knowledge?
 - How strong are the relationships among the variables available for analysis?
 
-We hope 
 
 ## Project Description <a name="proj-desc"></a>
 
