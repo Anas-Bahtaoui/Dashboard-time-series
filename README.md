@@ -1,7 +1,7 @@
-# Dashboard-for-real-time-monitoring
-Design a dashboard to track products in a manufacturing chain.
+# Time Series Visualization
+Design a dashboard for time series datasets.
 
-## Scenario:
+## Scenario
 
 ## Team
 * Mohamed El Hasnaoui: https://github.com/meh-source
